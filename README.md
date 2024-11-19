@@ -28,5 +28,5 @@ This repository contains a Local File Sharing App implemented in Python. The app
    ```
 4. Run the application::
    ```bash
-   python app.py
+   python main server.py
    ```
